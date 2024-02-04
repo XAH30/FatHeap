@@ -44,7 +44,7 @@ Due to the high speed of the above operations, heaps have found many uses:
 3. Algorithms on graphs: Prim's algorithm, Dijkstra's algorithm.
 4.	Applications to complex systems (e.g., dynamic computer memory).
 # Basic operations for a thick heap
-![image](https://github.com/XAH30/FatHeap/assets/73390555/71a6fc43-4b0d-417c-927d-93d8d67f0688)
+![image](https://github.com/XAH30/FatHeap/assets/73390555/e3b9c6f8-f553-4d31-b4ea-68f672e16d2d)
 #  Comparison of data structures
 ![image](https://github.com/XAH30/FatHeap/assets/73390555/c9a31415-30d6-4b4b-bfd5-476fe2711e8f)
 
